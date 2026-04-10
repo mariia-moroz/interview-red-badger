@@ -29,7 +29,7 @@ Use a specific input file:
 node index.js sample-input.txt
 ```
 
-Content of input file example:
+Content of input file example (please follow the expected output format):
 ```bash
 5 3
 1 1 E
